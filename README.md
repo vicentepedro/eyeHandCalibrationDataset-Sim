@@ -22,3 +22,7 @@ The outputs are:
 - The canonical hand pose projection in the left camera according with the encoders values (which have an offset error)
 - The corrected hand pose projection in the left camera according with the corrected angular offsets
 - the calculated angular offsets in each time step 
+
+## Using the dataset
+
+The YARP dataplayer ([here](http://www.yarp.it/yarpdataplayer.html)) can be used to reproduce the dataset in a synchronized way.
